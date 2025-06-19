@@ -1,0 +1,30 @@
+My name is Udit Sharma, I am an AI Engineer by profession. I love building things. I am very passionate about Machine Learning and its advancements.
+I love to study, and also am fond of reading books mostly self help books. 
+
+AWARDS & ACHIEVEMENTS 
+Bronze Medal | AIntuition RAG Challenge| ITU – Zindi Africa      
+May’24 
+Objective: Create a RAG solution that could be leveraged by public institutions to support public administration services and tasks 
+• Built a hybrid retrieval pipeline using dense vector search (FAISS) and BM25, resulting in a 45% increase in response relevance 
+• Reduced average query latency by 38% through semantic chunking and optimized content segmentation using NLP techniques 
+Best Project Demo Award | Tech Day | Hughes Systique Corporation  
+March’24 
+• Implemented Physical Uplink Shared Channel till modulation using CUDA, leading to a 27x faster speed via GPU Parallelization 
+National Runners Up | Adhhyayan | IIT - Kharagpur 
+March’21 
+Objective: Gather and analyze areas with high education potential and check feasibility of establishing LiGHT centers to empower youth 
+• Led a 5-member team to gather and engineer data from 50+ rural regions, extracting features like literacy and youth density 
+• Applied K-Means Clustering on 200+ regions, improving targeting accuracy by 32% using the Elbow Method for optimal segmentation. 
+
+TECHNICAL SKILLS 
+• Programming Languages: Python (Advanced), C++ (Advanced), MySQL 
+• ML/DL Frameworks: TensorFlow, PyTorch, Scikit-learn, XGBoost, Keras 
+• MLOps & Cloud: CI/CD, MLflow, DagsHub, Docker, AWS (Cloud Practitioner), GitHub 
+• NLP & GenAI: spaCy, Gensim, NLTK, Transformers, HuggingFace, OpenCV, LangChain, LlamaIndex, RAG, LLMs 
+• Data Processing / Data Visualization: NumPy, Pandas, Matplotlib, Seaborn 
+• Development & Tools: VS Code, Jupyter, Git, Linux, Streamlit, Flask 
+
+CERTIFICATIONS & COURSES 
+• Deep Learning Specialization (Coursera) – Covered CNNs, RNNs, NLP, Generative AI, LLMs, algorithm optimization 
+• Machine Learning Specialization (Coursera) – Covered Supervised and Unsupervised Algorithms, Neural Networks  
+• AWS Certified Cloud Practitioner (AWS) – Covered S3, EC2, Sagemaker, Lambda 
