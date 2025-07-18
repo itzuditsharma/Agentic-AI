@@ -1,0 +1,8 @@
+To Create a new Crew project:
+
+-> crewai create crew stock_picker
+
+To run:
+- Be present in the directory having main.py
+
+-> crewai run
