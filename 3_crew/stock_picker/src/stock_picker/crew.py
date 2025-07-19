@@ -4,6 +4,7 @@ from crewai.agents.agent_builder.base_agent import BaseAgent
 from pydantic import BaseModel, Field
 from typing import List
 from crewai_tools import SerperDevTool
+from .tools.push_tool import PushNotificationTool
 # If you want to run a snippet of code before or after the crew starts,
 # you can use the @before_kickoff and @after_kickoff decorators
 # https://docs.crewai.com/concepts/crews#example-crew-class-with-decorators
@@ -22,7 +23,7 @@ class TrendingCompanyResearch(BaseModel):
     "Detailed research on a company"
     name: str = Field(description="Company name")
     market_position: str = Field(description="Current market position and competitive analysis")
-    future_outloo: str = Field(description="Future outlook and growth prospects")
+    future_outlook: str = Field(description="Future outlook and growth prospects")
     investment_potential : str = Field(description="Investment potential and suitability for investment")
 
 class TrendingCompanyResearchList(BaseModel):
@@ -45,7 +46,7 @@ class StockPicker():
     
     @agent
     def stock_picker(self) -> Agent:
-        return Agent(config = self.agents_config['stock_picker'])
+        return Agent(config = self.agents_config['stock_picker'], tools = [PushNotificationTool()])
     
     @task
     def find_trending_companies(self) -> Task:
