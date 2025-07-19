@@ -1,7 +1,17 @@
 To Create a new Crew project:
 
 -> crewai create crew stock_picker
+-----------------------------------
+Fill in the config yaml files to define the Agents and Tasks
 
+-----------------------------------
+Complete the crew.py module to create the Agents, Tasks and Crew,
+referencing the config
+
+-----------------------------------
+Update main.py to set any inputs
+
+-----------------------------------
 To run:
 - Be present in the directory having main.py
 

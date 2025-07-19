@@ -20,7 +20,7 @@ class PushNotificationTool(BaseTool):
         # Implementation goes here
         pushover_user = os.getenv("PUSHOVER_USER")
         pushover_token = os.getenv("PUSHOVER_TOKEN")
-        pushover_url = "https://api.pushover.net/1/message.json"
+        pushover_url = "https://api.pushover.net/1/messages.json"
 
         print(f"Push: {message}")
         payload = {"user" : pushover_user, "token" : pushover_token, "message" : message}
