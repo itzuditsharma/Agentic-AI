@@ -1,0 +1,13 @@
+coding_task:
+  description: >
+    Perform the task described in this assignment: {assignment}
+    Make sure all generated or reviewed code is aligned with the MISRA rules provided.
+
+  expected_output: >
+    - A clear explanation of how the task is approached
+    - The code written (if generation)
+    - OR the review with violation breakdowns (if checking)
+    - A final recommendation for the code's compliance
+
+  agent: coder
+  output_file: output/code_and_output.txt
