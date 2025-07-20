@@ -16,3 +16,12 @@ To run:
 - Be present in the directory having main.py
 
 -> crewai run
+
+
+
+
+
+
+
+
+uv add gradio

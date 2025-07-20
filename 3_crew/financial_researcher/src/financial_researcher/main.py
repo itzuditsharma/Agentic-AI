@@ -1,5 +1,8 @@
 import os
 from financial_researcher.crew import FinancialResearcher
+import logging
+logging.basicConfig(level=logging.DEBUG)
+
 
 # Create output directory if it doesn't exist
 os.makedirs('output', exist_ok=True)
@@ -22,4 +25,7 @@ def run():
     print("\n\nReport has been saved to output/report.md")
 
 if __name__ == "__main__":
-    run()
+    try:
+        run()
+    except Exception as e:
+        print("Error occurred:", e)
