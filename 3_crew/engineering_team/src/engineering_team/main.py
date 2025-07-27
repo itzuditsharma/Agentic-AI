@@ -6,6 +6,9 @@ from datetime import datetime
 
 from engineering_team.crew import EngineeringTeam
 
+from dotenv import load_dotenv
+load_dotenv()
+
 warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
 
 # Create output directory if it doesn't exist
