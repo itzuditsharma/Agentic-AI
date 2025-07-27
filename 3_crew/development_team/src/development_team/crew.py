@@ -10,7 +10,7 @@ class DevelopmentTeam():
     agents: List[BaseAgent]
     tasks: List[Task]
 
-    agents_config = 'config/agent.yaml'
+    agents_config = 'config/agents.yaml'
     tasks_config = 'config/tasks.yaml'
 
     @agent
