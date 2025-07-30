@@ -1,0 +1,13 @@
+<rail version="0.1">
+  <output>
+    <object>
+      <string name="email" format="email"/>
+      <integer name="age" min="18" max="100"/>
+    </object>
+  </output>
+
+  <prompt>
+    Extract email and age of the person in JSON format.
+    ${user_input}
+  </prompt>
+</rail>
