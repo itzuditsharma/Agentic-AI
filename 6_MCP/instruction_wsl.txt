@@ -1,0 +1,4 @@
+ctrl  + shift + p
+Connect to WSL in other window
+Select folder - projects/agents
+press OK
