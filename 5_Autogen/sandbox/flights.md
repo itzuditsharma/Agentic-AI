@@ -1,31 +1,30 @@
-### Flight Deals from JFK to LHR in June 2025
+### Flights.md
 
-1. **Airline**: British Airways  
-   **Price**: $457  
-   **Departure**: JFK, New York  
-   **Arrival**: LHR, London  
-   **Notes**: Includes generous baggage allowance and award-winning service.
+#### Flight Options from JFK to LHR in June 2025
 
-2. **Airline**: Delta Airlines  
-   **Price**: $472  
-   **Departure**: JFK, New York  
-   **Arrival**: LHR, London  
-   **Notes**: Offers numerous non-stop flights across multiple routes.
+**Option 1: Virgin Atlantic**  
+- **Departure:** June 1, 2025  
+- **Return:** Non-stop  
+- **Price:** $536.18  
+- **Details:**  
+  - 42 non-stop flights per week  
+  - Enjoy a variety of onboard entertainment, meals, and drinks  
 
-3. **Airline**: Virgin Atlantic  
-   **Price**: $457  
-   **Departure**: JFK, New York  
-   **Arrival**: LHR, London  
-   **Notes**: Great choice of food, drinks, and onboard entertainment.
+**Option 2: Norse Atlantic Airways**  
+- **Departure:** June 5, 2025  
+- **Return:** Non-stop  
+- **Price:** $472  
+- **Details:**  
+  - Comfy seats with a good food and drinks selection   
+  - Non-stop flight  
 
-4. **Airline**: Norse Atlantic Airways  
-   **Price**: $129  
-   **Departure**: JFK, New York  
-   **Arrival**: LHR, London  
-   **Notes**: Affordable direct flights, limited service offerings.
+**Option 3: British Airways**  
+- **Departure:** June 8, 2025  
+- **Return:** Non-stop  
+- **Price:** $499  
+- **Details:**  
+  - Award-winning service with a generous baggage allowance  
+  - Comfortable and reliable service  
 
-5. **Various Airlines**  
-   **Price**: Starting at $350  
-   **Departure**: JFK, New York  
-   **Arrival**: LHR, London  
-   **Notes**: Deals from multiple travel agents. Check for specifics.
+**Best Option:**  
+I recommend the **Norse Atlantic Airways flight on June 5, 2025**, due to its lower price of $472 and its non-stop service.
